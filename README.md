@@ -7,7 +7,7 @@
 Thanks for checking out this coding challenge.
 
 
-**To do this challenge, you needed a good understanding of HTML, CSS and JavaScript.**
+**To do this challenge, i needed a good understanding of HTML, CSS and JavaScript.**
 
 ## The challenge
 
